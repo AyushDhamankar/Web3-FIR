@@ -51,7 +51,7 @@ Contract Address: `0x266918717c31CE365b504a1C9E1cEce32316F3e7`
 WEB 3.0 FIR Website Link: `https://web3-fir.netlify.app/`
 ## Installation
 
-Install my-project with npm
+Install my-project-name with npm
 
 ```bash
   cd my-project-name
